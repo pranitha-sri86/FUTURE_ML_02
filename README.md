@@ -89,13 +89,16 @@ This system can:
 Jupyter Notebook
 Dataset (or dataset source link)
 Visualizations
-
+---
 🏁 Conclusion
 
 This project demonstrates how Machine Learning and NLP can be used to automate support ticket handling and improve operational efficiency in real-world businesses.
 
+---
 🙌 Acknowledgment
 
 This project was completed as part of the Machine Learning Internship by Future Interns.
 
+---
 🔗 GitHub Repository
+https://github.com/pranitha-sri86/FUTURE_ML_02.git
